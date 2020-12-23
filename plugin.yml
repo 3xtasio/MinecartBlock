@@ -1,0 +1,8 @@
+name: MinecartBlock
+version: 1.0
+author: Extasio15
+description: Bloque les minecarts & hopper..
+main: fr.extasio.main.Main
+
+  
+    
